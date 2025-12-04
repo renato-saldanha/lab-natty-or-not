@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# A Engenharia de Software e a Magia das Automations
 
 ## 📒 Descrição
 E-book criado em prol do desafio da DIO.
